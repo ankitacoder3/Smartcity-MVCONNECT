@@ -13,6 +13,7 @@ public class Product {
 	private String cityname;
 	private int  hotels;
 	private int  restaurant;
+	private int type;
 	
 	@Override
 	public String toString() {
@@ -25,12 +26,13 @@ public class Product {
 		super();
 		// TODO Auto-generated constructor stub
 	}
-	public Product(int id, String cityname, int hotels, int restaurant) {
+	public Product(int id, String cityname, int hotels, int restaurant, int type) {
 		super();
 		this.id = id;
 		this.cityname =cityname;
 		this.hotels =hotels;
 		this.restaurant = restaurant;
+		this.type-type;
 	}
 	public int getId() {
 		return id;
@@ -56,7 +58,12 @@ public class Product {
 	public void setPrice(int Price) {
 		this.restaurant = Price;
 	}
-	
+	public void setType(int t) {
+		this.type = t;
+	}
+	public int getType (){
+		return type;
+	}
 	
 
 }
