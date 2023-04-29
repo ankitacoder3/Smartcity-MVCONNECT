@@ -1,3 +1,4 @@
+<!--index for mall class-->
 <html>
 <head>
 <%@include file="./base.jsp" %>

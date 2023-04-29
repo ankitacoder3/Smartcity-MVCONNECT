@@ -1,3 +1,4 @@
+<!--index form-->
 <html>
 <head>
 <%@include file="./base.jsp" %>

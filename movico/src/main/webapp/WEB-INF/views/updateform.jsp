@@ -1,3 +1,4 @@
+<!--update form-->
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
 <!DOCTYPE html>
@@ -26,6 +27,8 @@
 <a href="${pageContext.request.contextPath }/hotel"
    class="btn btn-outline-danger">Back</a>
 <button type="submit" class="btn btn-primary">Update</button>
+
+
 </div>
 </form>
 
