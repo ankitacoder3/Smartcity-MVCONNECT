@@ -1,9 +1,16 @@
+/*
+ Design Pattern used- Singleton Pattern
+ Design Principles used- SRP, OCP
+ Architechture Pattern- MVC
+*/
+
 package movico.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
+
 
 @Entity
 public class Malls {
@@ -15,10 +22,10 @@ public class Malls {
     private String open;
     private String close;
 
-    private static Malls instance; // Singleton instance
+    private static Malls instance; // Singleton private static instance
 
     private Malls() {
-        // Private constructor to prevent instantiation
+        // Private constructor to prevent instantiation from outside this class
     }
 
     // Lazy initialization of Singleton instance
@@ -33,8 +40,7 @@ public class Malls {
         return instance;
     }
 
-    // Rest of the class implementation
-    // ...
+    // Other methods
 
     @Override
     public String toString() {
@@ -44,40 +50,44 @@ public class Malls {
                 + ", hashCode()=" + hashCode() + ", toString()=" + super.toString() + "]";
     }
 
+    //getter functions or methods
+
     public int getId() {
         return id;
-    }
-
-    public void setId(int id) {
-        this.id = id;
     }
 
     public String getName() {
         return name;
     }
 
-    public void setName(String Name) {
-        this.name = Name;
-    }
-
     public String getAddress() {
         return address;
-    }
-
-    public void setAddress(String address) {
-        this.address = address;
     }
 
     public String getOpen() {
         return open;
     }
 
-    public void setOpen(String open) {
-        this.open = open;
-    }
-
     public String getClose() {
         return close;
+    }
+
+    //setter functions or methods
+
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    public void setName(String Name) {
+        this.name = Name;
+    }
+
+    public void setAddress(String address) {
+        this.address = address;
+    }
+
+    public void setOpen(String open) {
+        this.open = open;
     }
 
     public void setClose(String close) {
