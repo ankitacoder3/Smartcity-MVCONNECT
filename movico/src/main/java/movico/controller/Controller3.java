@@ -54,7 +54,7 @@ public class Controller3 {
 		m.addAttribute("title","Add Atm Details");
 		return "add-atm";
 	}
-	//handle add product form
+	//handle add atm form
 	@RequestMapping(value="/handle-atm", method = RequestMethod.POST)
 	public RedirectView handleatm(@ModelAttribute Atm atm,HttpServletRequest request)
 	{
@@ -75,7 +75,7 @@ public class Controller3 {
 		return redirectView;
 	}
 
-	//handler to update
+	//handler to update atm
 	@Transactional 
 	@RequestMapping("/updateatm/{atmId}")
 	public String Updateatmform(@PathVariable("atmId")int aid,Model model)
@@ -101,7 +101,7 @@ public class Controller3 {
 		m.addAttribute("title","Add Theatre Details");
 		return "add-theatre";
 	}
-	//handle add product form
+	//handle add theatre form
 	@RequestMapping(value="/handle-theatre", method = RequestMethod.POST)
 	public RedirectView handlehotel(@ModelAttribute Theatres theatre,HttpServletRequest request)
 	{
@@ -122,7 +122,7 @@ public class Controller3 {
 		return redirectView;
 	}
 
-	//handler to update
+	//handler to update theatre
 	@Transactional 
 	@RequestMapping("/updatetheatre/{theatreId}")
 	public String Updatetheatreform(@PathVariable("theatreId")int tid,Model model)
@@ -148,7 +148,7 @@ public class Controller3 {
 		m.addAttribute("title","Add Mall Details");
 		return "add-mall";
 	}
-	//handle add product form
+	//handle add mall form
 	@RequestMapping(value="/handle-mall", method = RequestMethod.POST)
 	public RedirectView handleatm(@ModelAttribute Malls mall,HttpServletRequest request)
 	{
@@ -169,7 +169,7 @@ public class Controller3 {
 		return redirectView;
 	}
 
-	//handler to update
+	//handler to update mall
 	@Transactional 
 	@RequestMapping("/updatemall/{mallId}")
 	public String Updatemallform(@PathVariable("mallId")int mid,Model model)
