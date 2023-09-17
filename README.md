@@ -1,4 +1,13 @@
-# SmartCity-MVCITY
+# SmartCity--MV-CITY
+
+<details>
+  <summary color= blue >Table of Contents</summary>
+<li>Introduction</li>
+<li> Prerequisites and Techstack</li>
+<li> Steps for execution</li>
+<li> Usage</li>
+</details>
+</br>
 
 ### Problem Statement
 To create a smart-city management system, using MVC architecture pattern.
@@ -18,3 +27,14 @@ The key features of this Smart City web-based software are:
 ####
 ###	Modules: Admin, Tourist-Leisure, Tourist-Essential
 ####
+
+
+## Prerequisites and Techstack
+
+- Java
+- Spring
+- Eclipse IDLE
+- Prerequisites: MVC concept
+
+  <p align="right">(<a href="#readme-top">back to top</a>)</p>
+  </br>
