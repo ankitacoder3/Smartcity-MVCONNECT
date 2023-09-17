@@ -4,7 +4,7 @@
 
 This application has been built using ```MVC``` architecture.
 
-
+<br>
 <details>
   <summary color= blue >Table of Contents</summary>
 <li>Introduction</li>
