@@ -15,13 +15,7 @@ This application has been built using ```MVC``` architecture.
 </br>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-  </br
-
-## Objective
-To create a smart-city management system, using MVC architecture pattern.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-  </br 
+  </br>
     
 ####
 ## Introduction
@@ -35,7 +29,7 @@ So, for newcomers, this project offers a whole solution. Through this internet a
 ######
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-  </br
+  </br>
     
 ##	Features
 
@@ -52,7 +46,7 @@ The key features of this Smart City web-based software are:
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-  </br
+  </br>
     
 ## Prerequisites and Techstack
 
@@ -60,6 +54,12 @@ The key features of this Smart City web-based software are:
 - Spring
 - Eclipse IDLE
 - Prerequisites: MVC concept
+
+  <p align="right">(<a href="#readme-top">back to top</a>)</p>
+  </br>
+  
+## Usage
+To create a smart-city management system, using MVC architecture pattern.
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
   </br>
