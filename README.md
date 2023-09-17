@@ -1,4 +1,4 @@
-# SMART_CITY_team4
+# SmartCity-MVCITY
 
 ### Problem Statement
 To create a smart-city management system, using MVC architecture pattern.
