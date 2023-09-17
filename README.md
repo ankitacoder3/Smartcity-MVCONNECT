@@ -1,5 +1,10 @@
 # SmartCity--MV-CITY
 
+```MV-CITY```is a ```SmartCity Application```.
+
+This application has been built using ```MVC``` architecture.
+
+
 <details>
   <summary color= blue >Table of Contents</summary>
 <li>Introduction</li>
@@ -12,7 +17,7 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
   </br
 
-##Objective
+## Objective
 To create a smart-city management system, using MVC architecture pattern.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
