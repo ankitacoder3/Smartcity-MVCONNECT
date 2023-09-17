@@ -12,14 +12,14 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
   </br
 
-### Objective
+##Objective
 To create a smart-city management system, using MVC architecture pattern.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
   </br 
     
 ####
-### Introduction
+## Introduction
 Every day, a sizable number of people travel to all the cities in search of employment, advanced education, business, tourism, etc.
 
 Newcomers to the city are initially unaware of the entire city infrastructure. 
@@ -32,7 +32,7 @@ So, for newcomers, this project offers a whole solution. Through this internet a
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
   </br
     
-###	Features
+##	Features
 
 The key features of this Smart City web-based software are:
 
