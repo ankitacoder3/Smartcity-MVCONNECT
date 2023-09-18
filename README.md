@@ -20,22 +20,21 @@ This application has been built using ```MVC``` architecture.
 ####
 ## Introduction
 Every day, a sizable number of people travel to all the cities in search of employment, advanced education, business, tourism, etc.
-
 Newcomers to the city are initially unaware of the entire city infrastructure. 
-
 They don't have a lot of experience with shopping, transportation, or hotel reservations.
-
-So, for newcomers, this project offers a whole solution. Through this internet application, one may view all the pertinent information about the city.
+This project offers a whole solution for new-comers.
+Through this internet application, one may view all the pertinent information about the city.
 ######
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-  </br>
     
-### Objective
+### Objective:
 To create a smart-city management system, using MVC architecture pattern.
 
 ####
-###	Modules: Admin, Tourist-Leisure, Tourist-Essential
+###	Modules in ```MV-CITY```: 
+- Admin
+- Tourist-Leisure
+- Tourist-Essential
 ####
 
 
