@@ -9,7 +9,7 @@ This application has been built using ```MVC``` architecture.
   <summary color= blue >Table of Contents</summary>
 <li>Introduction</li>
 <li> Prerequisites and Techstack</li>
-<li> Steps for execution</li>
+<!--<li> Steps for execution</li>-->
 <li> Usage</li>
 </details>
 </br>
@@ -31,15 +31,9 @@ So, for newcomers, this project offers a whole solution. Through this internet a
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
   </br>
     
-##	Features
+### Objective
+To create a smart-city management system, using MVC architecture pattern.
 
-The key features of this Smart City web-based software are:
-
-->	Using this project, the details of city can be accessed from anywhere at any time.
-
-->	The implementation of this city project promotes tourism effectively.
-
-->	Hotels can be searched more easily from anywhere.
 ####
 ###	Modules: Admin, Tourist-Leisure, Tourist-Essential
 ####
@@ -59,7 +53,13 @@ The key features of this Smart City web-based software are:
   </br>
   
 ## Usage
-To create a smart-city management system, using MVC architecture pattern.
+
+The ```MV-CITY``` software can be used as follows:
+
+*	This project provides details of the city.
+*	These details can be accessed from anywhere at any time.
+
+-	This project promotes tourism effectively.
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
   </br>
