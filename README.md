@@ -21,8 +21,11 @@ This application has been built using ```MVC``` architecture.
 ## Introduction
 Every day, a sizable number of people travel to all the cities in search of employment, advanced education, business, tourism, etc.
 Newcomers to the city are initially unaware of the entire city infrastructure. 
+
 They don't have a lot of experience with shopping, transportation, or hotel reservations.
+
 This project offers a whole solution for new-comers.
+
 Through this internet application, one may view all the pertinent information about the city.
 ######
 
