@@ -50,7 +50,7 @@ To create a smart-city management system, using MVC architecture pattern.
 - Eclipse IDLE
 - Prerequisites: MVC concept
 
-  <p align="right">(<a href="#readme-top">back to top</a>)</p>
+  <p align="right"><a href="#readme-top">back to top</a></p>
   </br>
   
 ## Usage
@@ -62,5 +62,5 @@ The ```MV-CITY``` software can be used as follows:
 
 -	This project promotes tourism effectively.
 
-  <p align="right">(<a href="#readme-top">back to top</a>)</p>
+  <p align="right"><a href="#readme-top">back to top</a></p>
   </br>
