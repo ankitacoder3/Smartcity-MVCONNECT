@@ -1,6 +1,6 @@
-# SmartCity--MV-CITY
+# Smartcity-MVCONNECT
 
-```MV-CITY```is a ```SmartCity Application```.
+```MVCONNECT```is a ```Smartcity Application```.
 
 This application has been built using ```MVC``` architecture.
 
@@ -33,7 +33,7 @@ Through this internet application, one may view all the pertinent information ab
 To create a smart-city management system, using MVC architecture pattern.
 
 ####
-###	Modules in ```MV-CITY```: 
+###	Modules in ```MVCONNECT```: 
 - Admin
 - Tourist-Leisure
 - Tourist-Essential
@@ -55,7 +55,7 @@ To create a smart-city management system, using MVC architecture pattern.
   
 ## Usage
 
-The ```MV-CITY``` software can be used as follows:
+The ```MVCONNECT``` software can be used as follows:
 
 *	This project provides details of the city.
 *	These details can be accessed from anywhere at any time.
